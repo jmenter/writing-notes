@@ -106,6 +106,8 @@ If you have already granted permissions, rescind them now.
 
 9) self-imposed limits. i don't actually care what they are, just impose something. "i don't internet until 9AM", "i don't bring my phone to bed", "I don't internet while I'm pooping". You must create and foster some kind of limit on how much screen time/internet time/social media time you spend.
 
+10) app permissions: BE SUPER DEFENSIVE. Any app that asks for permissions (mic/camera/location/notifications/contacts/etc.) should be assumed to be nefarious and the default action should be to DENY.
+Only apps that are vetted/trustworthy/deserve special permissions shall be granted them.
 
 https://mediaengagement.org/research/social-media-how-platforms-can-do-better/
 
