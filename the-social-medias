@@ -109,6 +109,20 @@ If you have already granted permissions, rescind them now.
 10) app permissions: BE SUPER DEFENSIVE. Any app that asks for permissions (mic/camera/location/notifications/contacts/etc.) should be assumed to be nefarious and the default action should be to DENY.
 Only apps that are vetted/trustworthy/deserve special permissions shall be granted them.
 
+Platform Specific Guides, or, "how not to become a user".
+
+--- YOUTUBE --- 
+
+1) Use the website on your web browser (not any of the apps), and make sure you have uBlock origin installed.
+2) do not log in, or, use it containerized (i.e.; there are no non-youtube related cookies in the browser)
+3) turn off the autoplay
+4) block the annotations module with uBlock origin (add youtube.com/*/annotations_module.js to your filters list)
+5) block the "recommended videos" on the right with uBlock origin (add www.youtube.com###secondary to your filters list)
+6) (optional) block comments with (www.youtube.com###sections rule)
+7) never smash the like or the subscribe or leave comments. (these features are not for you, they are for youtube. also, you're not logged in, right?)
+(i mean, i get that people are trying to make money on youtube but just no. if you want to support, use patreon or buy their merch.)
+8) every video you watch is going into producing some kind of recommendation algorithm (even if you're not logged in). basically, don't use any of that.
+
 https://mediaengagement.org/research/social-media-how-platforms-can-do-better/
 
 https://mediaengagement.org/research/making-strangers-less-strange/
